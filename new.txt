@@ -1,0 +1,4 @@
+git 으로 관리 
+변경사항
+statging area -> add
+기록 남김 
