@@ -1,5 +1,7 @@
-git 으로 관리 
-변경사항
+git 으로 관리 -> git init 
+
+
+변경사항 만들기 
 statging area -> add add . 
 기록 남김 -> git commit -m 'message'
-d
+dd
